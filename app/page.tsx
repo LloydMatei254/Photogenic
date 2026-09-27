@@ -19,7 +19,7 @@ export default function HomePage() {
       {/* Hero Section */}
       <section className="relative h-screen flex items-center justify-center">
         <Image
-          src="/images/hero/hero-main.jpg"
+          src="https://images.unsplash.com/photo-1452587925148-ce544e77e70d?w=1920&q=80"
           alt="Photography hero image"
           fill
           className="object-cover"
@@ -186,7 +186,7 @@ export default function HomePage() {
       {/* Call to Action */}
       <section className="relative h-[60vh] flex items-center justify-center">
         <Image
-          src="/images/hero/cta-bg.jpg"
+          src="https://images.unsplash.com/photo-1495571758719-6ec1e876d6ae?w=1920&q=80"
           alt="Contact background"
           fill
           className="object-cover"

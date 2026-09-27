@@ -55,7 +55,7 @@ export default function AboutPage() {
       {/* Hero Section */}
       <section className="relative h-[70vh] flex items-center justify-center">
         <Image
-          src="/images/hero/about-hero.jpg"
+          src="https://images.unsplash.com/photo-1500917293891-ef795e70e1f6?w=1920&q=80"
           alt="Lloyd Matsi looking out over landscape"
           fill
           className="object-cover"
@@ -76,7 +76,7 @@ export default function AboutPage() {
         <div className="max-w-6xl mx-auto grid grid-cols-1 lg:grid-cols-2 gap-16 items-center">
           <div className="relative h-[500px]">
             <Image
-              src="/images/about/profile.jpg"
+              src="https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?w=800&q=80"
               alt="Lloyd Matsi portrait"
               fill
               className="object-cover"

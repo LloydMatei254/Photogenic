@@ -22,7 +22,7 @@ export default function ServicesPage() {
       {/* Hero Section */}
       <section className="relative h-[60vh] flex items-center justify-center">
         <Image
-          src="/images/hero/services-hero.jpg"
+          src="https://images.unsplash.com/photo-1471341971476-ae15ff5dd4ea?w=1920&q=80"
           alt="Photography services"
           fill
           className="object-cover"
